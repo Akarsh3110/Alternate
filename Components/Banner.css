@@ -1,0 +1,97 @@
+
+.head {
+    width: 1375px;
+height: 96px;
+top: 147px;
+left: 273px;
+
+    text-align: center;
+
+}
+.head p{
+    text-align: center;
+    font-family: Roboto;
+    width: 200px;
+    font-size: 45px;
+    line-height: 48px;
+    color: white;
+    
+
+    
+}
+
+.cover{
+    align-items: center;
+    width: 1415px;
+    height: 500px;
+    top: 293px;
+    left: 253px;
+
+}
+
+.description{
+    width: 1231px;
+    height: 81px;
+    top: 843px;
+    left: 345px;
+    opacity: 0.8px;
+    color: white;
+    text-align: center;
+
+}
+
+.btn{
+    width: 416px;
+    height: 60px;
+    top: 979px;
+    left: 752px;
+    text-align: center;
+    
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    color: white;
+}
+
+.one{
+   background-size: cover;
+    width: 571px;
+    height: 381px;
+    top: 1215px;
+    left: 277px;
+
+}
+
+.oneo p{
+    color: white;
+    font-family: Roboto;
+font-size: 19px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+
+.two{
+    background-size: cover;
+    width: 571px;
+    height: 381px;
+    top: 1215px;
+    left: 277px;
+
+}
+
+.two p{
+    color: white;
+    font-family: Roboto;
+font-size: 19px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
